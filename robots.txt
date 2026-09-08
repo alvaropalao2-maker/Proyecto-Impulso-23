@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Reemplaza el dominio por el definitivo antes de publicar
-Sitemap: https://www.impulso23.pe/sitemap.xml
+Sitemap: https://impulso23.com/sitemap.xml
