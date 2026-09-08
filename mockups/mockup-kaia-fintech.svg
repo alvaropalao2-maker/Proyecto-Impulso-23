@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 267" role="img" aria-label="Mockup diseño — Kaia Fintech">
+  <rect width="400" height="267" fill="#F1EEF7"/>
+  <rect x="28" y="28" width="344" height="211" rx="14" fill="#ffffff" stroke="#E1DAF3"/>
+  <circle cx="108" cy="108" r="42" fill="#6D4FE0"/>
+  <text x="108" y="122" text-anchor="middle" font-family="Urbanist, Arial, sans-serif" font-size="34" fill="#ffffff" font-weight="700">K</text>
+  <text x="170" y="98" font-family="Urbanist, Arial, sans-serif" font-size="18" fill="#2A2340" font-weight="700">Kaia Fintech</text>
+  <rect x="170" y="110" width="150" height="8" rx="4" fill="#C9BEEF"/>
+  <rect x="170" y="124" width="112" height="8" rx="4" fill="#DAD1F5"/>
+  <text x="170" y="150" font-family="Urbanist, Arial, sans-serif" font-size="9" fill="#9188B0">Identidad de marca · sistema visual</text>
+  <rect x="52" y="176" width="42" height="42" rx="8" fill="#6D4FE0"/>
+  <rect x="102" y="176" width="42" height="42" rx="8" fill="#1AE0EF"/>
+  <rect x="152" y="176" width="42" height="42" rx="8" fill="#2A2340"/>
+  <rect x="202" y="176" width="42" height="42" rx="8" fill="#B7A9EE"/>
+  <rect x="252" y="176" width="42" height="42" rx="8" fill="#F1EEF7" stroke="#E1DAF3"/>
+  <text x="28" y="256" font-family="Urbanist, Arial, sans-serif" font-size="10" fill="#6E6488">Kaia Fintech — Servicios de Diseño</text>
+</svg>

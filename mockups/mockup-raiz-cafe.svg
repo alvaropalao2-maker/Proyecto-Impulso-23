@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 267" role="img" aria-label="Mockup contenido — Raíz Café">
+  <rect width="400" height="267" fill="#17122B"/>
+  <text x="24" y="40" font-family="Urbanist, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">Raíz Café</text>
+  <text x="24" y="57" font-family="Urbanist, Arial, sans-serif" font-size="9" fill="#9C90C6">Serie de video para redes</text>
+  <rect x="140" y="22" width="150" height="223" rx="16" fill="#241C3F" stroke="#3B2F63"/>
+  <rect x="140" y="22" width="150" height="223" rx="16" fill="url(#g1)" opacity="0.35"/>
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6D4FE0"/>
+      <stop offset="1" stop-color="#1AE0EF"/>
+    </linearGradient>
+  </defs>
+  <circle cx="215" cy="120" r="30" fill="#ffffff" opacity="0.14"/>
+  <path d="M206 104l24 16-24 16z" fill="#ffffff"/>
+  <rect x="160" y="170" width="110" height="10" rx="5" fill="#1AE0EF"/>
+  <rect x="160" y="188" width="80" height="8" rx="4" fill="#5B4E86"/>
+  <text x="215" y="228" text-anchor="middle" font-family="Urbanist, Arial, sans-serif" font-size="11" fill="#ffffff">#RaizCafe</text>
+  <circle cx="330" cy="150" r="4" fill="#6D4FE0"/>
+  <circle cx="330" cy="168" r="4" fill="#B7A9EE"/>
+  <circle cx="330" cy="186" r="4" fill="#3B2F63"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 267" role="img" aria-label="Mockup web — Portal Andes Seguros">
+  <rect width="400" height="267" fill="#F1EEF7"/>
+  <rect x="28" y="24" width="344" height="219" rx="12" fill="#ffffff" stroke="#E1DAF3"/>
+  <path d="M28 36a12 12 0 0 1 12-12h320a12 12 0 0 1 12 12v22H28z" fill="#EDE8FA"/>
+  <circle cx="46" cy="41" r="4" fill="#6D4FE0"/>
+  <circle cx="60" cy="41" r="4" fill="#B7A9EE"/>
+  <circle cx="74" cy="41" r="4" fill="#DAD1F5"/>
+  <rect x="94" y="34" width="210" height="14" rx="7" fill="#ffffff" stroke="#E1DAF3"/>
+  <text x="104" y="44" font-family="Urbanist, Arial, sans-serif" font-size="9" fill="#6D4FE0">andesseguros.pe</text>
+  <rect x="48" y="76" width="150" height="14" rx="4" fill="#2A2340"/>
+  <rect x="48" y="102" width="128" height="46" rx="8" fill="#F5F2FD"/>
+  <rect x="184" y="102" width="128" height="46" rx="8" fill="#F5F2FD"/>
+  <circle cx="70" cy="125" r="12" fill="#6D4FE0"/>
+  <circle cx="206" cy="125" r="12" fill="#1AE0EF"/>
+  <rect x="90" y="118" width="70" height="7" rx="3" fill="#C9BEEF"/>
+  <rect x="90" y="130" width="50" height="7" rx="3" fill="#DAD1F5"/>
+  <rect x="226" y="118" width="70" height="7" rx="3" fill="#C9BEEF"/>
+  <rect x="226" y="130" width="50" height="7" rx="3" fill="#DAD1F5"/>
+  <rect x="48" y="164" width="264" height="10" rx="5" fill="#EDE8FA"/>
+  <rect x="48" y="164" width="176" height="10" rx="5" fill="#6D4FE0"/>
+  <rect x="48" y="188" width="264" height="8" rx="4" fill="#DAD1F5"/>
+  <rect x="48" y="204" width="210" height="8" rx="4" fill="#DAD1F5"/>
+  <text x="28" y="258" font-family="Urbanist, Arial, sans-serif" font-size="10" fill="#6E6488">Portal Andes Seguros — Desarrollo Web</text>
+</svg>

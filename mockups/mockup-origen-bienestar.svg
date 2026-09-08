@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 267" role="img" aria-label="Mockup diseño — Origen Bienestar">
+  <rect width="400" height="267" fill="#F1EEF7"/>
+  <rect x="28" y="28" width="344" height="211" rx="14" fill="#ffffff" stroke="#E1DAF3"/>
+  <circle cx="108" cy="108" r="42" fill="#1AE0EF"/>
+  <text x="108" y="122" text-anchor="middle" font-family="Urbanist, Arial, sans-serif" font-size="34" fill="#123B40" font-weight="700">O</text>
+  <text x="170" y="98" font-family="Urbanist, Arial, sans-serif" font-size="18" fill="#2A2340" font-weight="700">Origen Bienestar</text>
+  <rect x="170" y="110" width="150" height="8" rx="4" fill="#C9BEEF"/>
+  <rect x="170" y="124" width="112" height="8" rx="4" fill="#DAD1F5"/>
+  <text x="170" y="150" font-family="Urbanist, Arial, sans-serif" font-size="9" fill="#9188B0">Sistema de diseño UI/UX</text>
+  <rect x="52" y="174" width="70" height="46" rx="8" fill="#F5F2FD" stroke="#E1DAF3"/>
+  <rect x="130" y="174" width="70" height="46" rx="8" fill="#F5F2FD" stroke="#E1DAF3"/>
+  <rect x="208" y="174" width="70" height="46" rx="8" fill="#F5F2FD" stroke="#E1DAF3"/>
+  <circle cx="66" cy="190" r="5" fill="#6D4FE0"/>
+  <rect x="78" y="186" width="34" height="6" rx="3" fill="#C9BEEF"/>
+  <rect x="62" y="202" width="50" height="6" rx="3" fill="#DAD1F5"/>
+  <rect x="140" y="186" width="50" height="10" rx="5" fill="#6D4FE0"/>
+  <rect x="140" y="202" width="40" height="6" rx="3" fill="#DAD1F5"/>
+  <circle cx="243" cy="197" r="14" fill="none" stroke="#1AE0EF" stroke-width="4"/>
+  <text x="28" y="256" font-family="Urbanist, Arial, sans-serif" font-size="10" fill="#6E6488">Origen Bienestar — Servicios de Diseño</text>
+</svg>

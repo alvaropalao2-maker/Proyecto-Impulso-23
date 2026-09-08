@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 267" role="img" aria-label="Mockup marketing — Verde Market">
+  <rect width="400" height="267" fill="#F1EEF7"/>
+  <rect x="24" y="24" width="352" height="219" rx="12" fill="#ffffff" stroke="#E1DAF3"/>
+  <text x="40" y="52" font-family="Urbanist, Arial, sans-serif" font-size="13" fill="#2A2340" font-weight="700">Verde Market</text>
+  <text x="40" y="68" font-family="Urbanist, Arial, sans-serif" font-size="9" fill="#9188B0">Estrategia SEO · posiciones orgánicas</text>
+  <rect x="40" y="82" width="100" height="46" rx="8" fill="#F5F2FD"/>
+  <rect x="150" y="82" width="100" height="46" rx="8" fill="#F5F2FD"/>
+  <rect x="260" y="82" width="100" height="46" rx="8" fill="#6D4FE0"/>
+  <text x="52" y="101" font-family="Urbanist, Arial, sans-serif" font-size="8" fill="#9188B0">Clics</text>
+  <text x="52" y="120" font-family="Urbanist, Arial, sans-serif" font-size="14" fill="#6D4FE0" font-weight="700">+38%</text>
+  <text x="162" y="101" font-family="Urbanist, Arial, sans-serif" font-size="8" fill="#9188B0">Keywords top 3</text>
+  <text x="162" y="120" font-family="Urbanist, Arial, sans-serif" font-size="14" fill="#6D4FE0" font-weight="700">64</text>
+  <text x="272" y="101" font-family="Urbanist, Arial, sans-serif" font-size="8" fill="#D7CCF7">CTR</text>
+  <text x="272" y="120" font-family="Urbanist, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">7.9%</text>
+  <g fill="#6D4FE0">
+    <rect x="52" y="196" width="20" height="28"/>
+    <rect x="90" y="182" width="20" height="42"/>
+    <rect x="128" y="166" width="20" height="58"/>
+    <rect x="166" y="150" width="20" height="74"/>
+    <rect x="204" y="132" width="20" height="92"/>
+  </g>
+  <polyline points="62,190 100,170 138,152 176,140 214,120 320,92" fill="none" stroke="#1AE0EF" stroke-width="3"/>
+  <text x="24" y="258" font-family="Urbanist, Arial, sans-serif" font-size="10" fill="#6E6488">Verde Market — Marketing Digital</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 267" role="img" aria-label="Mockup marketing — Clínica Aurora">
+  <rect width="400" height="267" fill="#F1EEF7"/>
+  <rect x="24" y="24" width="352" height="219" rx="12" fill="#ffffff" stroke="#E1DAF3"/>
+  <text x="40" y="52" font-family="Urbanist, Arial, sans-serif" font-size="13" fill="#2A2340" font-weight="700">Clínica Aurora</text>
+  <text x="40" y="68" font-family="Urbanist, Arial, sans-serif" font-size="9" fill="#9188B0">Campañas de performance · leads</text>
+  <rect x="40" y="82" width="150" height="46" rx="8" fill="#F5F2FD"/>
+  <rect x="200" y="82" width="160" height="46" rx="8" fill="#6D4FE0"/>
+  <text x="52" y="101" font-family="Urbanist, Arial, sans-serif" font-size="8" fill="#9188B0">Coste por lead</text>
+  <text x="52" y="120" font-family="Urbanist, Arial, sans-serif" font-size="14" fill="#6D4FE0" font-weight="700">-41%</text>
+  <text x="212" y="101" font-family="Urbanist, Arial, sans-serif" font-size="8" fill="#D7CCF7">Citas agendadas</text>
+  <text x="212" y="120" font-family="Urbanist, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">+52%</text>
+  <circle cx="90" cy="192" r="34" fill="none" stroke="#EDE8FA" stroke-width="12"/>
+  <path d="M90 158a34 34 0 0 1 30 50" fill="none" stroke="#6D4FE0" stroke-width="12"/>
+  <text x="90" y="197" text-anchor="middle" font-family="Urbanist, Arial, sans-serif" font-size="13" fill="#2A2340" font-weight="700">68%</text>
+  <g fill="#C9BEEF">
+    <rect x="176" y="196" width="18" height="26"/>
+    <rect x="210" y="182" width="18" height="40"/>
+    <rect x="244" y="166" width="18" height="56"/>
+    <rect x="278" y="150" width="18" height="72"/>
+    <rect x="312" y="134" width="18" height="88"/>
+  </g>
+  <text x="24" y="258" font-family="Urbanist, Arial, sans-serif" font-size="10" fill="#6E6488">Clínica Aurora — Marketing Digital</text>
+</svg>
