@@ -82,12 +82,16 @@ html {
 
 .footer-top {
   display: flex;
+  align-items: center;
   justify-content: center;
   text-align: center;
+  padding-top: clamp(48px, 8vw, 110px);
+  padding-bottom: clamp(48px, 8vw, 110px);
 }
 
 .footer-top .git-text {
   width: 100%;
+  margin: 0;
   font-size: clamp(2.25rem, 9vw, 7.5rem);
   line-height: 1.05;
   letter-spacing: 0.02em;
